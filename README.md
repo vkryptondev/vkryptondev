@@ -3,5 +3,6 @@
 
 ## 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vkryptondev&show_icons=true&hide_border=true" alt="Milwad github states" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkryptondev&layout=compact&theme=vision-friendly-dark" alt="milwad states" height="180" />
+![Vladislaw Krypton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkryptondev&show_icons=true&hide_border=true)
+
+![Vladislaw Krypton's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vkryptondev&layout=compact&theme=vision-friendly-dark)
